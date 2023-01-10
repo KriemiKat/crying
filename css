@@ -1,0 +1,46 @@
+.navbar{
+    width: 85%;
+    margin: auto;
+    padding: 35px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar ul li{
+list-style: none;
+display: inline-block;
+margin: 0 20px;
+text-decoration: none;
+}
+
+.navbar > img {
+ width: 90px;
+}
+
+main > div > img  {
+    width: 300px;
+    margin-left: 300px;
+}
+
+.container{
+    width: 80%;
+    margin-left: 25%;
+    display: inline-block;
+}
+
+.left-column{
+    height:400px;
+    display: flex;
+    float: left;
+}
+
+.right-column{
+    width: 500px;
+    height: 400px;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
